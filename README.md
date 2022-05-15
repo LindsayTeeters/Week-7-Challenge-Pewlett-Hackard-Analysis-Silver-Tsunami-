@@ -6,6 +6,6 @@ Bobby's manager at Pewlett Hackard has asked us to provide him an analysis of re
 
 ## Results
 
-Within this course we learning about tables and how to join tables together. A good visual for this was the DBD and ERD. The DBD tool that we utilized was [Quick DBD]:(http://quickdatabasediagrams.com/). This allowed us to visually see relationships between tables.  
+Within this course we learning about tables and how to join tables together. A good visual for this was the DBD and ERD. The DBD tool that we utilized was [Quick DBD](http://quickdatabasediagrams.com/). This allowed us to visually see relationships between tables.  
 Pewlett Hackard has 300,024 employees listed within their employee dataframe. Thee age of these employees is pretty evenly spread out from 57 years of age and 70 years of age. Each birth year averages 7% of the total number of employees. The total number of employees who have retired over the years is 133,776. That is 45% of the total number of employees listed. 
 
