@@ -10,7 +10,7 @@ Within this course we learning about tables and how to join tables together. A g
 
 ![DBD](https://github.com/LindsayTeeters/Week-7-Challenge-Pewlett-Hackard-Analysis-Silver-Tsunami-/blob/main/Resources/EmployeeDB.png)
 
-Pewlett Hackard has 300,024 employees listed within their employee dataframe. Thee age of these employees is pretty evenly spread out from 57 years of age and 70 years of age. Each birth year averages 7% of the total number of employees. The total number of employees who have retired over the years is 133,776. That is 45% of the total number of employees listed. 
+Pewlett Hackard has 300,024 employees listed within their employee dataframe. Thee age of these employees is pretty evenly spread out from 67 years of age and 70 years of age for a total of 90,398. Each birth year averages 7% of the total number of employees. The total number of employees who have retired over the years is 133,776. That is 45% of the total number of employees listed. 
 
 ![CSV export generated pivot table](https://github.com/LindsayTeeters/Week-7-Challenge-Pewlett-Hackard-Analysis-Silver-Tsunami-/blob/main/Resources/Retiring%20Title%20CSV%20Pivot%20Table%20Screenshot.png)
 
@@ -21,7 +21,11 @@ Couple of key takeaways:
   * 87% of the retired employees, started before the new millennium.
   * Fun fact: Guther is the top first name of retired employees.
   * The Senior Staff and Engineers have the most employees that can participate in the mentorship elgibility. This correlates to the number of retirees. 
+  
 ![Pivot Table from CSV EXPORT](https://github.com/LindsayTeeters/Week-7-Challenge-Pewlett-Hackard-Analysis-Silver-Tsunami-/blob/main/Resources/mentorship_elgibility%20CSV%20Pivot%20Table%20Image.png)
+
+## Summary
+The number of employees that retired and who were born from between the years of 1952 and 1955 was 90,398. This is the number of positions that will need to be filled. The mentorship program percentage is inline with the title breakdown of those retiree; however, retirees contain a wealth a knowlege that was gained over the years. the mentorship program could also add more employees to this program to enhance skillsets. 
 
    
 
