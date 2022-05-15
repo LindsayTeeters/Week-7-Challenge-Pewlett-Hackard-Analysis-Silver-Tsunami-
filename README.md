@@ -18,6 +18,11 @@ Couple of key takeaways:
   * Managers aren't high on the retirement list. They either step down before they retire or few have actually retired.
   * Engineers make up the highest percent of employees retiring. 
       * This isn't that much higher than general Staff, Senior Engineers, or Senior Staff.
+  * 87% of the retired employees, started before the new millennium.
+  * Fun fact: Guther is the top first name of retired employees.
+  * The Senior Staff and Engineers have the most employees that can participate in the mentorship elgibility. This correlates to the number of retirees. 
+![Pivot Table from CSV EXPORT](https://github.com/LindsayTeeters/Week-7-Challenge-Pewlett-Hackard-Analysis-Silver-Tsunami-/blob/main/Resources/mentorship_elgibility%20CSV%20Pivot%20Table%20Image.png)
+
    
 
 
