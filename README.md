@@ -12,4 +12,11 @@ Within this course we learning about tables and how to join tables together. A g
 
 Pewlett Hackard has 300,024 employees listed within their employee dataframe. Thee age of these employees is pretty evenly spread out from 57 years of age and 70 years of age. Each birth year averages 7% of the total number of employees. The total number of employees who have retired over the years is 133,776. That is 45% of the total number of employees listed. 
 
+![CSV export generated pivot table](https://github.com/LindsayTeeters/Week-7-Challenge-Pewlett-Hackard-Analysis-Silver-Tsunami-/blob/main/Resources/Retiring%20Title%20CSV%20Pivot%20Table%20Screenshot.png)
+Couple of key takeaways:
+  * Managers aren't high on the retirement list. They either step down before they retire or few have actually retired.
+  * Engineers make up the highest percent of employees retiring. 
+      * This isn't that much higher than general Staff, Senior Engineers, or Senior Staff.
+   
+
 
